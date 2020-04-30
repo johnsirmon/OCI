@@ -1,2 +1,2 @@
 # OCI
-repo for OCI stuff
+This is my personal Repo for stuff relating to Oracle Cloud Infrastructure
